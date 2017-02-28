@@ -19,4 +19,3 @@ Return the filenames for the ASL images
 \examples{
 get_asl_filenames()
 }
-
