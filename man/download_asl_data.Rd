@@ -16,6 +16,3 @@ Indicator if the data is downloaded.
 \description{
 Download the files for the ASL images
 }
-\examples{
-download_asl_data()
-}
