@@ -11,7 +11,7 @@ get_asl_filenames(...)
 \code{modalities = "ASL"} so it cannot be specified}
 }
 \value{
-Vector fo filenames
+Vector of filenames
 }
 \description{
 Return the filenames for the ASL images
